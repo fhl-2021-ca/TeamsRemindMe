@@ -1,0 +1,3 @@
+is_global = true
+build_property.RootNamespace = TeamsConversationBot
+build_property.ProjectDir = C:\Users\aseemgoyal\TeamsApp\BotBuilder-Samples\samples\csharp_dotnetcore\57.teams-conversation-bot\
